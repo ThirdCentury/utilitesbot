@@ -35,5 +35,9 @@
 
 ## Extras:
 1. Mentioning the bot returns the prefix of the bot.
+- Example:
+> @Utilities++
+> My prefix is ";" 
+    
 
-#### Built with discord.py by Nobel Suhendra. From: January 2021 to 15 September 2021
+#### Built with discord.py from early February 2021 to 15 September 2021.
