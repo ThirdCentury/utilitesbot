@@ -20,7 +20,7 @@
 - Usage: `;setup`
 
 3. ;txtsetup
-- Usage: `;txtsetup **separator**`
+- Usage: `;txtsetup [separator]`
 - Example of an ideal .txt file is found in the repo.
 
 5. ;role
@@ -28,10 +28,12 @@
 
 7. ;prefix
 - Usage for current prefix: `;prefix`
-- Usage for changing prefix: `;prefix **new prefix**`
+- Usage for changing prefix: `;prefix [new prefix]`
 
 9. ;clear
-- Usage: `;clear **messages**`
+- Usage: `;clear [messages]`
 
 ## Extras:
 1. Mentioning the bot returns the prefix of the bot.
+
+#### Built with discord.py by Nobel Suhendra. From: January 2021 to 15 September 2021
